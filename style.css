@@ -1,0 +1,23 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/835370890/photo/sunset-sunrise-with-clouds-light-rays-and-other-atmospheric-effect.jpg?s=612x612&w=0&k=20&c=zGDOBYVFY74wX2gUgkonYGtNl1zenev5mPotAqUlJbM=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+header .row {
+    background-color: rgba(255, 255, 255, 0.7);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+main .weatherData {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+table *{
+    background-color: rgba(255, 255, 255, 0)!important;
+}
+.city-img img{
+    object-fit: contain;
+    background-position: center;
+    height: 400px;
+    width: 100%
+}
